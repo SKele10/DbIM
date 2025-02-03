@@ -1,5 +1,5 @@
 
-# DbIM (Database Interaction Manager)
+# DbIM (Music Manager)
 
 DbIM is a full-stack application designed to manage and query data related to music artists, albums, and record companies. It features a GraphQL API for flexible data interactions and utilizes MongoDB and Redis for efficient storage and caching.
 
